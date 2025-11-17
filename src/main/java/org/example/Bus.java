@@ -6,4 +6,4 @@ public class Bus<T extends Person> extends Vehicle<T> {
     }
 }
 
-// int - Integer
+
